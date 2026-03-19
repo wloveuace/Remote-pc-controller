@@ -1,6 +1,7 @@
 # Remote-pc-controller
 
 **Remark** This project is ment for educaiton and a project combining between C knowledge , Operating systems , and Network programming. Not production level , i'd personally say it does its job.
+[Preview](https://cdn.discordapp.com/attachments/1248401913586651141/1484293393545953320/fee1c550-95a9-4bdf-ab06-7c24d7790120.mov?ex=69bdb371&is=69bc61f1&hm=02899fc94d148ac777749b6bef76225d7eadb50f80911ca2f240cdb5fb62905c&)
 
 ### How to setup
 1. Download the source code or pre built binary
