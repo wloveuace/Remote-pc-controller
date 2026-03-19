@@ -24,4 +24,7 @@ I'd say the most important feature is leveraging Thread pools instead of normal 
 - They help manage the workload by allowing tasks to be queued up until a thread becomes available, preventing system overload
 - Once a task is completed, the thread can be returned to the pool and used for another task, promoting efficient thread reuse
 
+
+####Links
 [SetVol Tool](https://github.com/roblatour/setvol)
+[Preview](https://cdn.discordapp.com/attachments/1248401913586651141/1484293393545953320/fee1c550-95a9-4bdf-ab06-7c24d7790120.mov?ex=69bdb371&is=69bc61f1&hm=02899fc94d148ac777749b6bef76225d7eadb50f80911ca2f240cdb5fb62905c&)
