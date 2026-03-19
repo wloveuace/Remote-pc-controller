@@ -1,6 +1,6 @@
 # Remote-pc-controller
 
-**Remark** This project is ment for educaiton and a project combining between C knowledge , Operating systems , and Network programming. Not production level , i'd personally say it does its job.\
+**Remark** This project is ment for educaiton and a project combining between C knowledge , Operating systems , and Network programming. Not production level , i'd personally say it does its job.
 
 ### How to setup
 1. Download the source code or pre built binary
